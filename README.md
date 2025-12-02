@@ -1,0 +1,2 @@
+# fuEOEJyjwM
+本系统是一款基于SpringBoot的仓库管理系统，整合SpringSecurity、MybatisPlius、Redis和WebSocket等技术。主要用途是实现对企业仓库的高效管理，核心功能包括库存管理、出入库记录、实时数据统计等，有效提高库存准确性，降低管理成本。前端采用Vue、ElementUI、ECharts和Vuex等，确保用户界面友好、操作便捷。系统运行环境为JDK1.8和MySQL8，助力企业提升仓储管理效率。
